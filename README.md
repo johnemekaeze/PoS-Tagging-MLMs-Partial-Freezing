@@ -1,1 +1,2 @@
-# PoS-Tagging-MLMs-Partial-Freezing
+# Partial Freezing of Multilingual Models for PoS Tagging
+
